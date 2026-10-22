@@ -47,9 +47,11 @@ No commercial tools; pure open source, running locally:
 
 ## Status
 
-- [x] Source scans downloaded and verified
-- [x] JP2 → PNG decode pipeline
-- [x] English OCR of Harden 1920 (corpus/ocr_eng)
-- [ ] Ge'ez OCR of Harden 1920 (corpus/ocr_gez)
-- [ ] Structure map: chapter boundaries
-- [ ] Translation: chapter 1 …
+- [x] Source scans downloaded and verified (Harden 1920 JP2s; Platt 1834)
+- [x] JP2 → PNG decode pipeline (pure-JS OpenJPEG, no system deps)
+- [x] English OCR of Harden 1920 — in progress (`corpus/ocr_eng/`, background job)
+- [x] Platt 1834 interleaved Ge'ez+English corpus extracted and page-marked (`corpus/platt/`)
+- [x] Translation begun: title + apostolic preface (`translation/00-title-and-preface.md`)
+- [ ] Assemble Harden English corpus file for witness lookup
+- [ ] Test tesseract `amh` OCR on the Platt 1834 print (may beat the embedded Google OCR)
+- [ ] Translation: sections I ff. (bishop's conduct, judgment, receiving penitents)
