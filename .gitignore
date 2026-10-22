@@ -1,0 +1,6 @@
+node_modules/
+.venv/
+source/*.zip
+source/*.pdf
+source/*_jp2/
+nohup.out
