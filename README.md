@@ -57,5 +57,6 @@ No commercial tools; pure open source, running locally:
 - [x] Translation: §§ 17–22 — the bath, the strange woman, close of Section I (`translation/04…md`)
 - [x] Translation: §§ 23–26 — wives obeying husbands, Prov 31, veiling (`translation/05…md`)
 - [x] Translation: §§ 27–30 — bishops part I: qualifications, [i., 11.], [ii., 1.–4.] (`translation/06…md`)
+- [x] Translation: §§ 31–37 — bishops part II: judgment, Scriptures, toil, Ezekiel watchman, close ([ii., 5.–6.]) (`translation/07…md`)
 - [ ] Test tesseract `amh` OCR on the Platt 1834 print (may beat the embedded Google OCR)
-- [ ] Translation: bishops part II — judgment, reading, toil, Ezekiel watchman ([ii., 5.–7.])
+- [ ] Translation: baptism and the baptized — [ii., 7.–10.] (Platt Ch. IV)
