@@ -55,5 +55,6 @@ No commercial tools; pure open source, running locally:
 - [x] Translation: the first great admonition, §§ 1–9 (`translation/01-the-great-admonition.md`)
 - [x] Translation: §§ 10–16 — children of light, purity, love the Lord & the rich (`translation/02…md`, `translation/03…md`)
 - [x] Translation: §§ 17–22 — the bath, the strange woman, close of Section I (`translation/04…md`)
+- [x] Translation: §§ 23–26 — wives obeying husbands, Prov 31, veiling (`translation/05…md`)
 - [ ] Test tesseract `amh` OCR on the Platt 1834 print (may beat the embedded Google OCR)
-- [ ] Translation: wives obeying husbands (Platt Ch. II / Prov 31), bishops, judgment
+- [ ] Translation: bishops, presbyters, deacons (Platt Ch. III / Harden Ch. IV, [i., 11.])
