@@ -58,5 +58,6 @@ No commercial tools; pure open source, running locally:
 - [x] Translation: §§ 23–26 — wives obeying husbands, Prov 31, veiling (`translation/05…md`)
 - [x] Translation: §§ 27–30 — bishops part I: qualifications, [i., 11.], [ii., 1.–4.] (`translation/06…md`)
 - [x] Translation: §§ 31–37 — bishops part II: judgment, Scriptures, toil, Ezekiel watchman, close ([ii., 5.–6.]) (`translation/07…md`)
+- [x] Translation: §§ 38–41 — baptism and the baptized; the bishop's righteousness; the bishop without understanding ([ii., 7.–10.], Platt Ch. IV) (`translation/08…md`)
 - [ ] Test tesseract `amh` OCR on the Platt 1834 print (may beat the embedded Google OCR)
-- [ ] Translation: baptism and the baptized — [ii., 7.–10.] (Platt Ch. IV)
+- [ ] Translation: bishops part III — the bishop watchful, Mt 18:18, Ezek 33 repentance, the wise virgins ([ii., 11.–13.])
